@@ -1,39 +1,36 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# CLIMA_RED
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Ignite
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Malavika ED - Mar baselious christian college of engineering and technology
+- Member 2: Jisa maria jose -  Mar baselious christian college of engineering and technology
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Mars Weather Forecast Project is a fun and imaginative tool that predicts daily weather conditions on Mars, including dust storms, freezing temperatures, and wind speeds. Designed as a creative experiment, it delivers humorous or fictional updates to make space weather forecasting entertaining!
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+How can we create an engaging and imaginative tool that generates fictional Mars weather forecasts by combining scientific facts with creative storytelling for educational or entertainment purposes?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We propose building a fun and interactive application that blends real Mars data with creative content to generate fictional weather forecasts, making space science more engaging and entertaining.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- TypeScript
+- Next.js 15
+  shadcn/ui
+- TypeScript compiler
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+
 
 ### Implementation
 For Software:
@@ -47,15 +44,11 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1l468nFtUMFvNix-DGLL2m9Z6i0DDLFiu/view?usp=drivesdk
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1l5jSitSxFxmKbaXTziXxvEgzfJfptv1r/view?usp=drivesdk
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+https://drive.google.com/file/d/1l6WOX5MtVLHaC_HC6PKGkHORQKQT5mkY/view?usp=drivesdk
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
@@ -81,16 +74,14 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
+https://drive.google.com/file/d/1qFwLGvuE_lFzxj-j935QVjkq9WHrwGhS/view?usp=drive_link
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Malavika E D: UI DESIGN
+- Jisa maria jose: IDEA
+- 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
